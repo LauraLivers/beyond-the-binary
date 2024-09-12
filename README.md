@@ -1,6 +1,9 @@
 # beyond-the-binary
 
-This document attempts to give a comprehensive overview of women in tech education in Switzerland based on federal data for the school year 22/23
+**This project attempts to give a comprehensive overview of women in tech education in Switzerland based on federal data for the school year 22/23. In short: Schools do not properly educate their students in computer literacy - for various reasons - and the astonishing amount of women in the tech workforce only further confirm that it's neither a symptom of disinterest or inabiility, but rather a lack of role-models.**
+
+
+This version was crated for the module _Data Visualisation for AI and Machine Learning_ at the University of Applied Sciences Lucerne (CH) and resulted in Grade A.
 
 author: Laura Livers<br>
 date: June 10, 2024<br>
