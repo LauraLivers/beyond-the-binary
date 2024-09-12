@@ -1,9 +1,10 @@
 # beyond-the-binary
 
-abstract: This document attempts to give a comprehensive overview of women in tech education in Switzerland based on federal data for the school year 22/23
+This document attempts to give a comprehensive overview of women in tech education in Switzerland based on federal data for the school year 22/23
 
 author: Laura Livers<br>
-date: June 10, 2024
+date: June 10, 2024<br>
+_all charts were written in python and can be used freely, but remember: credit, where credit's due!_
 
 
 ## Gender Distribution in Swiss Universities
@@ -70,7 +71,9 @@ The reasons behind this are outside of the scope of this project. However I woul
 ## Coding the Future
 
 Leaving aside societal bias about what a woman can or should be doing with her life, and how especially young people are influenced by such notions, looking at the education system of these three countries on the Primary School level appears to be very telling.
+
 ![](images/Chart4.png)
+
 While all three countries highly encourage the use of computers in all subjects, so as to familiarise the students with its use, **only Estonia** specifically states that those two lessons are **Computer Science**. In Switzerland the subject **Computer & Media** entails everything from how to google for information to how the printing press was invented. And as a lot of Primary School teachers were not adequately instructed on how to teach computer literacy, the tend to focus on the latter. The Netherlands have **no lesson allocated** to Computer Sciences on the Primary School level.
 Whether is the direct cause of the numbers of women in tech in those countries, will for now be left to debate.
 Personally, I find it quite telling.
