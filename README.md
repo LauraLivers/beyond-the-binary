@@ -77,8 +77,8 @@ Leaving aside societal bias about what a woman can or should be doing with her l
 
 ![](images/Chart4.png)
 
-While all three countries highly encourage the use of computers in all subjects, so as to familiarise the students with its use, **only Estonia** specifically states that those two lessons are **Computer Science**. In Switzerland the subject **Computer & Media** entails everything from how to google for information to how the printing press was invented. And as a lot of Primary School teachers were not adequately instructed on how to teach computer literacy, the tend to focus on the latter. The Netherlands have **no lesson allocated** to Computer Sciences on the Primary School level.
-Whether is the direct cause of the numbers of women in tech in those countries, will for now be left to debate.
+While all three countries highly encourage the use of computers in all subjects, so as to familiarise the students with its use, **only Estonia** specifically states that those two lessons are **Computer Science**. In Switzerland the subject **Computer & Media** entails everything from how to google for information to how the printing press was invented. And as a lot of Primary School teachers were not adequately instructed on how to teach computer literacy, they tend to focus on the latter. The Netherlands have **no lesson allocated** to Computer Sciences on the Primary School level.
+Whether this is the direct cause of the numbers of women in tech in those countries, will for now be left to debate.
 Personally, I find it quite telling.
 
 
