@@ -68,7 +68,7 @@ There are two key differences between women in the education system and women in
 - age
 
 As Switzerland has been an affluent country for the past 70 years, and at least on paper women have been allowed to chose their own career paths for the past 50 years, the financial incentive of the tech world is not as strong as for example in eastern European countries. Which leaves us with the suspicion that there might be an age-component to this problem:
-**The older a woman, the more like she seems to be to chose a career in tech**.
+**The older a woman, the more likely she seems to be to chose a career in tech**.
 The reasons behind this are outside of the scope of this project. However I would like to highlight a comparison between the Netherlands, Switzerland, and Estonia - three countries with high education and living standards and very different numbers.
 
 ## Coding the Future
